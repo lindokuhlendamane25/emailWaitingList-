@@ -1,3 +1,3 @@
 # emailWaitingList-
 
-https://heuristic-lewin-c78f5b.netlify.app/
+https://emailwaitinglist.netlify.app/
